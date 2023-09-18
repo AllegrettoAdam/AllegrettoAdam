@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AllegrettoAdam
+- 👀 I’m interested in everything that CS has to offer.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on anything I'm capable of improving.
